@@ -4,7 +4,6 @@ df = pd.DataFrame(data)
 print("Продажі по містах:")
 print(df)
 print("Середнє значення:", df["sales"].mean())
-aaaa = df["sales"].mean()
-vvv = df["sales"].std()
+
 
 
